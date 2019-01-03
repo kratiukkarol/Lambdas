@@ -135,5 +135,4 @@ public class StreamExample3 {
 				.summaryStatistics();
 		System.out.println("Statistics: " + summary);
 	}
-
 }
